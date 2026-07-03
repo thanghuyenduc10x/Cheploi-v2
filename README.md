@@ -5,7 +5,7 @@ Quà tặng từ **Coach Thắng Huyền Đức · 10X Life OS**. Trang giới t
 
 ## Phiên bản
 
-**v0.1.5** (03/07/2026) — Tự bỏ qua file **đã có transcript** (thấy `.srt` cạnh file gốc là đánh dấu Xong, không chép lại — tiện khi đổi máy). *(Bản Mac đã lên v0.1.5; 2 bản Windows đang build, sẽ cập nhật trong ngày.)*
+**v0.1.5** (03/07/2026) — Tự bỏ qua file **đã có transcript** (thấy `.srt` cạnh file gốc là đánh dấu Xong, không chép lại — tiện khi đổi máy).
 
 ## Tải về
 | Máy của bạn | Bản tải |
