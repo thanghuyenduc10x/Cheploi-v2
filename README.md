@@ -3,6 +3,10 @@
 Phần mềm **chép lời** (chuyển giọng nói → văn bản) chạy **hoàn toàn ngoại tuyến** trên máy bạn — không internet, không giới hạn, không lộ dữ liệu.
 Quà tặng từ **Coach Thắng Huyền Đức · 10X Life OS**. Trang giới thiệu: <https://10x-lifeos.com/chep-loi>
 
+## Phiên bản
+
+**v0.1.5** (03/07/2026) — Tự bỏ qua file **đã có transcript** (thấy `.srt` cạnh file gốc là đánh dấu Xong, không chép lại — tiện khi đổi máy). *(Bản Mac đã lên v0.1.5; 2 bản Windows đang build, sẽ cập nhật trong ngày.)*
+
 ## Tải về
 | Máy của bạn | Bản tải |
 |---|---|
