@@ -5,7 +5,7 @@ Quà tặng từ **Coach Thắng Huyền Đức · 10X Life OS**. Trang giới t
 
 ## Phiên bản
 
-**v0.1.7** (04/07/2026) — Sửa chữ ký cuối app mở đúng trang 10x-lifeos.com. Kèm v0.1.6: nhãn góc phải hiện đúng bản đang chạy (GPU Metal / GPU Vulkan / CPU). Kèm v0.1.5: tự bỏ qua file **đã có transcript** (thấy `.srt` cạnh file gốc là đánh dấu Xong, không chép lại — tiện khi đổi máy).
+**v0.1.8** (17/07/2026) — Gọn hơn: chỉ xuất file phụ đề `.srt` (bỏ `.txt` thừa) · app tự báo khi có phiên bản mới. Kèm: tự bỏ qua file đã có transcript · nhãn backend trung thực.
 
 ## Tải về
 | Máy của bạn | Bản tải |

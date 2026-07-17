@@ -1,0 +1,3 @@
+2bc8b09f493ed9ece5724456ea3aa69bf6bfa97664a0cfa773d404be77c25eca  ChepLoi-Mac.dmg
+21915b49a486295eb2d4564bfe74d04fde07450b52a073351eeb194d68beb20b  ChepLoi-Windows.zip
+ee09da945d178ac109012c81f0278f44bc0be4c27b350fb2115cb69414772073  ChepLoi-Windows-GPU.zip
